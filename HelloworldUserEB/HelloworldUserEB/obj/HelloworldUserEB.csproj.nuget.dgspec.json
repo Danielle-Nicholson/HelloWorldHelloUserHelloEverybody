@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloworldUserEB/HelloworldUserEB/HelloworldUserEB.csproj": {}
+    "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/HelloWorldUserEB.csproj": {}
   },
   "projects": {
-    "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloworldUserEB/HelloworldUserEB/HelloworldUserEB.csproj": {
+    "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/HelloWorldUserEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloworldUserEB/HelloworldUserEB/HelloworldUserEB.csproj",
-        "projectName": "HelloworldUserEB",
-        "projectPath": "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloworldUserEB/HelloworldUserEB/HelloworldUserEB.csproj",
+        "projectUniqueName": "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/HelloWorldUserEB.csproj",
+        "projectName": "HelloWorldUserEB",
+        "projectPath": "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/HelloWorldUserEB.csproj",
         "packagesPath": "/Users/daniellenicholson/.nuget/packages/",
-        "outputPath": "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloworldUserEB/HelloworldUserEB/obj/",
+        "outputPath": "/Users/daniellenicholson/Documents/HelloWorldHelloUserHelloEverybody/HelloWorldUserEB/HelloWorldUserEB/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daniellenicholson/.config/NuGet/NuGet.Config"

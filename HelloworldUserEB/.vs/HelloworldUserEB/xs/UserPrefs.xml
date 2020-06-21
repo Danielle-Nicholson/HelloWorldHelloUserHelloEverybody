@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{ACF85755-DD4A-41E6-A3D7-95D5A74BEB70}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloworldUserEB/Program.cs">
+﻿<Properties StartupConfiguration="{A7612E08-5A44-4BB7-BE43-1C4723D167A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldUserEB/Program.cs">
     <Files>
-      <File FileName="../README.md" Line="1" Column="2" />
-      <File FileName="HelloworldUserEB/Program.cs" Line="1" Column="1" />
+      <File FileName="HelloWorldUserEB/Program.cs" Line="10" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HelloworldUserEB" expanded="True">
-            <Node name="HelloworldUserEB" expanded="True">
+          <Node name="HelloWorldUserEB" expanded="True">
+            <Node name="HelloWorldUserEB" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.HelloworldUserEB FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorldUserEB PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
