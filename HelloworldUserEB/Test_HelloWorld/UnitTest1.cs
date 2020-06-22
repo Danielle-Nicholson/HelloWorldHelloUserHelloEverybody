@@ -6,7 +6,7 @@ namespace Test_HelloWorld
 {
     public class Tests
     {
-
+        public object HelloWorldUserEB { get; private set; }
 
         [SetUp]
         public void Setup()
