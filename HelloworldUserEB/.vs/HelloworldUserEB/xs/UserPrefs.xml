@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{A7612E08-5A44-4BB7-BE43-1C4723D167A0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldUserEB/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test_HelloWorld/UnitTest1.cs">
     <Files>
-      <File FileName="HelloWorldUserEB/Program.cs" Line="10" Column="10" />
+      <File FileName="HelloWorldUserEB/Program.cs" Line="1" Column="1" />
+      <File FileName="Test_HelloWorld/UnitTest1.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorldUserEB" expanded="True">
-            <Node name="HelloWorldUserEB" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="HelloWorldUserEB" expanded="True" />
+            <Node name="Test_HelloWorld" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -17,9 +19,13 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.HelloWorldUserEB PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Test_HelloWorld/Test_HelloWorld.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Test__HelloWorld FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
